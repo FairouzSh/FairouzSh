@@ -43,12 +43,10 @@ I am a data science professional with around two years of software industry expe
 
 <p align="center">
  <a href="https://www.linkedin.com/in/fairouzsharif5/">
-  <img src="https://img.shields.io/badge/CONNECT-blue?style=for-the-badge&logo=linkedin&labelColor=blue&color=blue
-  " />
+  <img src="https://img.shields.io/badge/CONNECT-blue?style=for-the-badge&logo=linkedin&labelColor=blue&color=blue"/>
  </a>
  <a href="mailto:fairouz.sharif5@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL%20-%20red?style=for-the-badge&logo=GMAIL&logoColor=white&labelColor=red&color=red
-  " />
+  <img src="https://img.shields.io/badge/EMAIL%20-%20red?style=for-the-badge&logo=GMAIL&logoColor=white&labelColor=red&color=red"/>
  </a>
 </p>
 
